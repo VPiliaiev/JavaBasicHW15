@@ -1,4 +1,5 @@
 package com.gmail.valeriipiliaiev;
+
 public class Account {
     private final String name;
     private final int dayOfBirth;
